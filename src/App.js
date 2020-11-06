@@ -13,7 +13,9 @@ function App() {
 {/* Home */}
 <Home />
 
-      {/* {header, banner, footer} */}
+
+
+      {/* {banner} */}
 
 {/* Search */}
       {/* search, calendar, scrolls */}
