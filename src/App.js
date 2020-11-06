@@ -9,16 +9,9 @@ function App() {
 
       
 <Header />
-
-{/* Home */}
 <Home />
 
 
-
-      {/* {banner} */}
-
-{/* Search */}
-      {/* search, calendar, scrolls */}
 
     </div>
   );
